@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ecomm1/static/css/main.06266ff6.css",
-    "main.js": "/Ecomm1/static/js/main.57e3275d.js",
-    "static/js/787.358d8442.chunk.js": "/Ecomm1/static/js/787.358d8442.chunk.js",
-    "index.html": "/Ecomm1/index.html",
-    "main.06266ff6.css.map": "/Ecomm1/static/css/main.06266ff6.css.map",
-    "main.57e3275d.js.map": "/Ecomm1/static/js/main.57e3275d.js.map",
-    "787.358d8442.chunk.js.map": "/Ecomm1/static/js/787.358d8442.chunk.js.map"
+    "main.css": "/Cart-React/static/css/main.06266ff6.css",
+    "main.js": "/Cart-React/static/js/main.acd692cd.js",
+    "static/js/787.358d8442.chunk.js": "/Cart-React/static/js/787.358d8442.chunk.js",
+    "index.html": "/Cart-React/index.html",
+    "main.06266ff6.css.map": "/Cart-React/static/css/main.06266ff6.css.map",
+    "main.acd692cd.js.map": "/Cart-React/static/js/main.acd692cd.js.map",
+    "787.358d8442.chunk.js.map": "/Cart-React/static/js/787.358d8442.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06266ff6.css",
-    "static/js/main.57e3275d.js"
+    "static/js/main.acd692cd.js"
   ]
 }
